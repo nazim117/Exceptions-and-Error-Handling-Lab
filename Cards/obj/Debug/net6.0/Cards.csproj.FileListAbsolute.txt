@@ -1,0 +1,15 @@
+C:\SoftUni-OOP\SquareRoot\Cards\bin\Debug\net6.0\Cards.exe
+C:\SoftUni-OOP\SquareRoot\Cards\bin\Debug\net6.0\Cards.deps.json
+C:\SoftUni-OOP\SquareRoot\Cards\bin\Debug\net6.0\Cards.runtimeconfig.json
+C:\SoftUni-OOP\SquareRoot\Cards\bin\Debug\net6.0\Cards.dll
+C:\SoftUni-OOP\SquareRoot\Cards\bin\Debug\net6.0\Cards.pdb
+C:\SoftUni-OOP\SquareRoot\Cards\obj\Debug\net6.0\Cards.csproj.AssemblyReference.cache
+C:\SoftUni-OOP\SquareRoot\Cards\obj\Debug\net6.0\Cards.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni-OOP\SquareRoot\Cards\obj\Debug\net6.0\Cards.AssemblyInfoInputs.cache
+C:\SoftUni-OOP\SquareRoot\Cards\obj\Debug\net6.0\Cards.AssemblyInfo.cs
+C:\SoftUni-OOP\SquareRoot\Cards\obj\Debug\net6.0\Cards.csproj.CoreCompileInputs.cache
+C:\SoftUni-OOP\SquareRoot\Cards\obj\Debug\net6.0\Cards.dll
+C:\SoftUni-OOP\SquareRoot\Cards\obj\Debug\net6.0\refint\Cards.dll
+C:\SoftUni-OOP\SquareRoot\Cards\obj\Debug\net6.0\Cards.pdb
+C:\SoftUni-OOP\SquareRoot\Cards\obj\Debug\net6.0\Cards.genruntimeconfig.cache
+C:\SoftUni-OOP\SquareRoot\Cards\obj\Debug\net6.0\ref\Cards.dll

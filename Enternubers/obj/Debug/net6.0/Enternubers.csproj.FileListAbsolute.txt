@@ -1,0 +1,15 @@
+C:\SoftUni-OOP\SquareRoot\Enternubers\bin\Debug\net6.0\Enternubers.exe
+C:\SoftUni-OOP\SquareRoot\Enternubers\bin\Debug\net6.0\Enternubers.deps.json
+C:\SoftUni-OOP\SquareRoot\Enternubers\bin\Debug\net6.0\Enternubers.runtimeconfig.json
+C:\SoftUni-OOP\SquareRoot\Enternubers\bin\Debug\net6.0\Enternubers.dll
+C:\SoftUni-OOP\SquareRoot\Enternubers\bin\Debug\net6.0\Enternubers.pdb
+C:\SoftUni-OOP\SquareRoot\Enternubers\obj\Debug\net6.0\Enternubers.csproj.AssemblyReference.cache
+C:\SoftUni-OOP\SquareRoot\Enternubers\obj\Debug\net6.0\Enternubers.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni-OOP\SquareRoot\Enternubers\obj\Debug\net6.0\Enternubers.AssemblyInfoInputs.cache
+C:\SoftUni-OOP\SquareRoot\Enternubers\obj\Debug\net6.0\Enternubers.AssemblyInfo.cs
+C:\SoftUni-OOP\SquareRoot\Enternubers\obj\Debug\net6.0\Enternubers.csproj.CoreCompileInputs.cache
+C:\SoftUni-OOP\SquareRoot\Enternubers\obj\Debug\net6.0\Enternubers.dll
+C:\SoftUni-OOP\SquareRoot\Enternubers\obj\Debug\net6.0\refint\Enternubers.dll
+C:\SoftUni-OOP\SquareRoot\Enternubers\obj\Debug\net6.0\Enternubers.pdb
+C:\SoftUni-OOP\SquareRoot\Enternubers\obj\Debug\net6.0\Enternubers.genruntimeconfig.cache
+C:\SoftUni-OOP\SquareRoot\Enternubers\obj\Debug\net6.0\ref\Enternubers.dll
