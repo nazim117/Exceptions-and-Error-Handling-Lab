@@ -1,0 +1,15 @@
+C:\SoftUni-OOP\SquareRoot\SumOfIntegers\bin\Debug\net6.0\SumOfIntegers.exe
+C:\SoftUni-OOP\SquareRoot\SumOfIntegers\bin\Debug\net6.0\SumOfIntegers.deps.json
+C:\SoftUni-OOP\SquareRoot\SumOfIntegers\bin\Debug\net6.0\SumOfIntegers.runtimeconfig.json
+C:\SoftUni-OOP\SquareRoot\SumOfIntegers\bin\Debug\net6.0\SumOfIntegers.dll
+C:\SoftUni-OOP\SquareRoot\SumOfIntegers\bin\Debug\net6.0\SumOfIntegers.pdb
+C:\SoftUni-OOP\SquareRoot\SumOfIntegers\obj\Debug\net6.0\SumOfIntegers.csproj.AssemblyReference.cache
+C:\SoftUni-OOP\SquareRoot\SumOfIntegers\obj\Debug\net6.0\SumOfIntegers.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni-OOP\SquareRoot\SumOfIntegers\obj\Debug\net6.0\SumOfIntegers.AssemblyInfoInputs.cache
+C:\SoftUni-OOP\SquareRoot\SumOfIntegers\obj\Debug\net6.0\SumOfIntegers.AssemblyInfo.cs
+C:\SoftUni-OOP\SquareRoot\SumOfIntegers\obj\Debug\net6.0\SumOfIntegers.csproj.CoreCompileInputs.cache
+C:\SoftUni-OOP\SquareRoot\SumOfIntegers\obj\Debug\net6.0\SumOfIntegers.dll
+C:\SoftUni-OOP\SquareRoot\SumOfIntegers\obj\Debug\net6.0\refint\SumOfIntegers.dll
+C:\SoftUni-OOP\SquareRoot\SumOfIntegers\obj\Debug\net6.0\SumOfIntegers.pdb
+C:\SoftUni-OOP\SquareRoot\SumOfIntegers\obj\Debug\net6.0\SumOfIntegers.genruntimeconfig.cache
+C:\SoftUni-OOP\SquareRoot\SumOfIntegers\obj\Debug\net6.0\ref\SumOfIntegers.dll
