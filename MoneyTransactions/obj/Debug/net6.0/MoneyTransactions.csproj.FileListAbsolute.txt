@@ -1,0 +1,15 @@
+C:\SoftUni-OOP\SquareRoot\MoneyTransactions\bin\Debug\net6.0\MoneyTransactions.exe
+C:\SoftUni-OOP\SquareRoot\MoneyTransactions\bin\Debug\net6.0\MoneyTransactions.deps.json
+C:\SoftUni-OOP\SquareRoot\MoneyTransactions\bin\Debug\net6.0\MoneyTransactions.runtimeconfig.json
+C:\SoftUni-OOP\SquareRoot\MoneyTransactions\bin\Debug\net6.0\MoneyTransactions.dll
+C:\SoftUni-OOP\SquareRoot\MoneyTransactions\bin\Debug\net6.0\MoneyTransactions.pdb
+C:\SoftUni-OOP\SquareRoot\MoneyTransactions\obj\Debug\net6.0\MoneyTransactions.csproj.AssemblyReference.cache
+C:\SoftUni-OOP\SquareRoot\MoneyTransactions\obj\Debug\net6.0\MoneyTransactions.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni-OOP\SquareRoot\MoneyTransactions\obj\Debug\net6.0\MoneyTransactions.AssemblyInfoInputs.cache
+C:\SoftUni-OOP\SquareRoot\MoneyTransactions\obj\Debug\net6.0\MoneyTransactions.AssemblyInfo.cs
+C:\SoftUni-OOP\SquareRoot\MoneyTransactions\obj\Debug\net6.0\MoneyTransactions.csproj.CoreCompileInputs.cache
+C:\SoftUni-OOP\SquareRoot\MoneyTransactions\obj\Debug\net6.0\MoneyTransactions.dll
+C:\SoftUni-OOP\SquareRoot\MoneyTransactions\obj\Debug\net6.0\refint\MoneyTransactions.dll
+C:\SoftUni-OOP\SquareRoot\MoneyTransactions\obj\Debug\net6.0\MoneyTransactions.pdb
+C:\SoftUni-OOP\SquareRoot\MoneyTransactions\obj\Debug\net6.0\MoneyTransactions.genruntimeconfig.cache
+C:\SoftUni-OOP\SquareRoot\MoneyTransactions\obj\Debug\net6.0\ref\MoneyTransactions.dll
